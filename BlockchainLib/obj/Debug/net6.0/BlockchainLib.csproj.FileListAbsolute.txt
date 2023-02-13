@@ -1,0 +1,12 @@
+C:\Users\DianaSacacian\Desktop\Blog\Blockchain\BlockchainLib\bin\Debug\net6.0\BlockchainLib.deps.json
+C:\Users\DianaSacacian\Desktop\Blog\Blockchain\BlockchainLib\bin\Debug\net6.0\BlockchainLib.dll
+C:\Users\DianaSacacian\Desktop\Blog\Blockchain\BlockchainLib\bin\Debug\net6.0\BlockchainLib.pdb
+C:\Users\DianaSacacian\Desktop\Blog\Blockchain\BlockchainLib\obj\Debug\net6.0\BlockchainLib.csproj.AssemblyReference.cache
+C:\Users\DianaSacacian\Desktop\Blog\Blockchain\BlockchainLib\obj\Debug\net6.0\BlockchainLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DianaSacacian\Desktop\Blog\Blockchain\BlockchainLib\obj\Debug\net6.0\BlockchainLib.AssemblyInfoInputs.cache
+C:\Users\DianaSacacian\Desktop\Blog\Blockchain\BlockchainLib\obj\Debug\net6.0\BlockchainLib.AssemblyInfo.cs
+C:\Users\DianaSacacian\Desktop\Blog\Blockchain\BlockchainLib\obj\Debug\net6.0\BlockchainLib.csproj.CoreCompileInputs.cache
+C:\Users\DianaSacacian\Desktop\Blog\Blockchain\BlockchainLib\obj\Debug\net6.0\BlockchainLib.dll
+C:\Users\DianaSacacian\Desktop\Blog\Blockchain\BlockchainLib\obj\Debug\net6.0\refint\BlockchainLib.dll
+C:\Users\DianaSacacian\Desktop\Blog\Blockchain\BlockchainLib\obj\Debug\net6.0\BlockchainLib.pdb
+C:\Users\DianaSacacian\Desktop\Blog\Blockchain\BlockchainLib\obj\Debug\net6.0\ref\BlockchainLib.dll
